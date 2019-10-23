@@ -2,7 +2,7 @@
 body {margin: 0;}
 
 .notfound {
-  background-image: url('../images/astronauta.jpg'), url('../images/stars404.png');
+  background-image: url('https://github.com/ZhongyuanW/ZhongyuanW.github.io/tree/master/images/astronauta.jpg'), url('https://github.com/ZhongyuanW/ZhongyuanW.github.io/tree/master/images/stars404.png');
   background-position: right top, center center;
   background-repeat: no-repeat, repeat;
   background-size: cover, auto;
